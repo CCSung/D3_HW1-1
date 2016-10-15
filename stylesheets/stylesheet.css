@@ -1,15 +1,17 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title></title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+.tbox {
+  background-color: lightgreen;
+  width:200px; 
+  height:50px;
+  border:6px green;
+  border-bottom-style: dotted;
+  border-top-style: double;
+}
 
-  <div class="tbox"></div>
-  <div class="bbox"></div>
-
-</body>
-</html>
+.bbox {
+  background-color: lightgreen;
+  width:150px; 
+  height:250px;
+  margin-left: 25px;
+  border:6px green;
+  border-top-style: none;
+}
