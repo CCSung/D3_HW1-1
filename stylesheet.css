@@ -2,7 +2,7 @@
   background-color: lightgreen;
   width:200px; 
   height:50px;
-  border:6px green;
+  border:6px solid green;
   border-bottom-style: dotted;
   border-top-style: double;
 }
@@ -12,6 +12,6 @@
   width:150px; 
   height:250px;
   margin-left: 25px;
-  border:6px green;
+  border:6px solid green;
   border-top-style: none;
 }
